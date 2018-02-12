@@ -4,7 +4,7 @@
           revision="oreo-mr1"
           fetch="https://github.com/PixelExperience/" />
     <!-- Xiaomi/Lithium -->
-    <project name="PsyMan47/lithium" path="device/xiaomi/lithium" remote="github" revision="LOS-15.1" />
+        <project name="PsyMan47/lithium" path="device/xiaomi/lithium" remote="github" revision="LOS-15.1" />
 	<project name="PsyMan47/msm8996-common" path="device/xiaomi/msm8996-common" remote="github" revision="LOS-15.1" />
 	<project name="LineageOS/android_kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" remote="github" revision="lineage-15.1" />
 	<!-- Vendor -->
